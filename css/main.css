@@ -1,0 +1,30 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.medium-grey {
+  background-color: #efefef;
+}
+
+header {
+  background-color: #ddd;
+}
+
+.white {
+  background-color: #fff;
+}
+
+table {
+  min-width: 45em;
+}
+
+@media only screen and (min-width: 60em) {
+  .table-wrapper {
+    overflow: visible;
+  }
+
+}
